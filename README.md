@@ -1,5 +1,5 @@
 # Repo documentation
 This project aims at something wonderfull...
-- Branching features testparagraph1
+- Branching features testparagraph
 - paragraph2
 - New content
